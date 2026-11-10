@@ -1,0 +1,6 @@
+{
+  "name": "BMI Calculator & Health Insights",
+  "description": "Comprehensive Body Mass Index (BMI) calculator with metric and imperial units, visual category gauge, healthy weight ranges, and personalized health insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
